@@ -1,3 +1,4 @@
 # final-project
 
-Final project by Jared Black, Dhruv T, Grace Yu, and Nicolas Swanson
+Final project by Jared Black, Dhruv T, Grace Yu, and Nicolas Swanson the great.
+
